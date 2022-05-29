@@ -13,6 +13,8 @@
 
 - I like python for create some script and later toi create my A.I.
 
+- My favorite IDE for dev is Visual Studio Code (la base) and PyCharm for python 
+
 ##  I dev with different langague
 <div style="display: flex; justify-content: space-around; width: 100%">
 <img alt="visual Studio Code" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
