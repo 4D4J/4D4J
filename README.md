@@ -1,12 +1,8 @@
-## 💎 I'm a passionate about sport, technology, and development !
+## 💎 Me:
+- Hi, my name is Nathan, I'm 16 years old and I'm currently in high school in 1ere. My goal after high school is to go to a university.
 
-- I have for goal to after my back go on a UT, Université Technologique
-
-- I dev now on a website for my teacher, a website to cell sneaker create by him 
-
-- I like python for create some script and later toi create my A.I.
-
-- My favorite IDE for dev is Visual Studio Code (la base) and PyCharm for python 
+- I've been seriously getting into web development for the past 5/6 months, I create a lot of sites for fun and to improve myself (my most successful ones are on my github).
+- I have known the dev world thanks to python, it taught me the basics of development and also the rigor, I would like to create my own A.I. later.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/Nàt#7235) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@4D4J_) 
