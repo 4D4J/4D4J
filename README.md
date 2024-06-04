@@ -1,5 +1,5 @@
 ## 💎 Me:
--Hello, my name is Nathan, I'm 17 and I'm currently in high school. Next year I'll be joining Otéria Cyber School.
+- Hello, my name is Nathan, I'm 17 and I'm currently in high school. Next year I'll be joining Otéria Cyber School.
 
 - I've been seriously into web development for 3/4 years, creating lots of sites for fun and to improve myself (my most successful ones are on my github).
 - I got into the development world thanks to python, which taught me the basics of development and also rigor. I'd like to create my own A.I. later on.
