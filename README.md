@@ -1,8 +1,11 @@
 ## 💎 Me:
-- Hi, my name is Nathan, I'm 16 years old and I'm currently in high school in 1ere. My goal after high school is to go to a university.
+-Hello, my name is Nathan, I'm 17 and I'm currently in high school. Next year I'll be joining Otéria Cyber School.
 
-- I've been seriously getting into web development for the past 5/6 months, I create a lot of sites for fun and to improve myself (my most successful ones are on my github).
-- I have known the dev world thanks to python, it taught me the basics of development and also the rigor, I would like to create my own A.I. later.
+- I've been seriously into web development for 3/4 years, creating lots of sites for fun and to improve myself (my most successful ones are on my github).
+- I got into the development world thanks to python, which taught me the basics of development and also rigor. I'd like to create my own A.I. later on.
+- 
+- I love cybersecurity and I'll make it my profession later on.
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/Nàt#7235) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@4D4J_) 
