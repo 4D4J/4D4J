@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center"> Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm 4D4J </h1> 
-<h3 align="center">A young French Developer </h3>
+<h3 align="center">A French Cyber Security Student </h3>
 
 <br />
 
@@ -38,7 +38,7 @@
 ## 🔌 Contact me:
 <p>
 <a href = "https://discordapp.com/users/715488349724344361"><img src="https://img.icons8.com/fluency/48/000000/discord-logo.png"/></a>
-<a href = "https://www.root-me.org/4D4J?lang=fr#680984c23162f7adafc67b9938c9a4b5"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.root-me.org%2F&psig=AOvVaw2nHVjSmUC0JzY3rc2zCpHr&ust=1737730669580000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCICa3auNjIsDFQAAAAAdAAAAABAE"/></a>
+<a href = "https://www.root-me.org/4D4J?lang=fr#680984c23162f7adafc67b9938c9a4b5"><img src="https://brandfetch.com/root-me.org?view=library&library=default&collection=logos&asset=id89zF6KTl"/></a>
 </p>
 
 <div style="width: 100%; display: flex; justify-content: center; align-items: center; flex-direction: column;">
