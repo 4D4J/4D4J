@@ -12,7 +12,7 @@
 
 - 🥅 2025 Goals: finish 100% of the Web Server, Web Client and Network categories in Root-Me !
 
-- ⚡ Fun facts: I'm learning Danish - Jeg lærer Dansk !
+- ⚡ Fun facts: I love sport !!
 
 
 ## 🔥 Languages and Tools
