@@ -1,4 +1,3 @@
-Hey Guys 🤗
 
 ``` javascript
 function whoAmI(name, job, codingLaunguage, website) {
@@ -41,3 +40,5 @@ whoAmI("4D4J aka Rapido", "independent developer and cybersecurity lover", "Type
 ![4D4J GitHub stats](https://github-readme-stats.vercel.app/api?username=4D4J&show_icons=true&theme=radical)
 
 [My PortFolio](https://www.rapido-cyber.dev)
+
+Rapido =)
