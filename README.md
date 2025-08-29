@@ -1,23 +1,18 @@
 
-``` javascript
-function whoAmI(name, job, codingLaunguage, website) {
+``` pascal
+program WhoAmI;
 
-    console.log(`
-    
-    Hello, my name is ${name}
-    
-    I'm a ${job} 
-    
-    I dev with ${codingLaunguage}
+procedure whoAmI(name: string; job: string; codingLanguage: string; website: string);
+begin
+  writeln('Hello, my name is ', name);
+  writeln('I''m a ', job);
+  writeln('I dev with ', codingLanguage);
+  writeln('Visit my PortFolio here ', website);
+end;
 
-    Visit my PortFolio here ${website}
-    
-    `)
-    
-}
-
-
-whoAmI("4D4J aka Rapido", "independent developer and cybersecurity lover", "TypeScript, Python, C, Java, and more . . .", "https://www.rapido-cyber.dev")
+begin
+  whoAmI('4D4J aka Rapido', 'independent developer and cybersecurity lover', 'TypeScript, Python, C, Java, and more . . .', 'https://www.rapido-cyber.dev');
+end.
  ```
  
  Executed : 
