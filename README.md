@@ -30,7 +30,7 @@ end.
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![4D4J's GitHub stats](https://github-readme-stats.vercel.app/api?username=4D4J)](https://github.com/anuraghazra/github-readme-stats)
 
 ![4D4J GitHub stats](https://github-readme-stats.vercel.app/api?username=4D4J&show_icons=true&theme=radical)
 
