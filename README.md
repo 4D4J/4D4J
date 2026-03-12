@@ -11,15 +11,15 @@ begin
 end;
 
 begin
-  whoAmI('4D4J aka Rapido', 'independent developer and cybersecurity lover', 'TypeScript, Python, C, Java, and more . . .', 'https://www.rapido-cyber.dev');
+  whoAmI('4D4J aka Rapido', 'independent developer and cybersecurity lover (and cheatmaker 🤫)', 'C++, Python, Java, and more . . .', 'https://www.rapido-cyber.dev');
 end.
  ```
  
  Executed : 
  ```
     Hello, my name is 4D4J aka Rapido
-    I'm a independent developer and a cybersecurity lover
-    I dev with TypeScript, Python, C, Java, and more . . .
+    I'm a independent developer and a cybersecurity lover (and cheatmaker 🤫)
+    I dev with C++, Python, Java, and more . . .
     Visit my PortFolio here https://www.rapido-cyber.dev
 
  ```
